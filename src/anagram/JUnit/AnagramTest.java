@@ -1,6 +1,6 @@
-package JUnit;
+package anagram.JUnit;
 
-import Karat.AnagramSets;
+import anagram.AnagramSets;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package Karat;
+package anagram;
 
 import java.util.*;
 
